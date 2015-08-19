@@ -6,4 +6,4 @@ The different steps can be viewed using the git command "<strong>git checkout \<
 1. Install: 
   * git checkout ee3ab30
 2. Hello World
-  * git checkout 6330456
+  * git checkout cee65cc
