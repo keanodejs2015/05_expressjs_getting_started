@@ -1,0 +1,26 @@
+{
+  "name": "gettingstarted",
+  "version": "0.0.1",
+  "description": "Getting started walk through in class, materials inspired from http://expressjs.com/starter/installing.html",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keanodejs/05_expressjs_getting_started.git"
+  },
+  "keywords": [
+    "Express.js",
+    "webserver"
+  ],
+  "author": "clbo (expressjs)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keanodejs/05_expressjs_getting_started/issues"
+  },
+  "homepage": "https://github.com/keanodejs/05_expressjs_getting_started#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
