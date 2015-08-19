@@ -4,4 +4,4 @@
 The different steps can be viewed using the git command "<strong>git checkout \<commit id\></strong>"
 
 1. Install: 
-  * git checkout 58dc4a0
+  * git checkout ee3ab30
