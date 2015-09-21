@@ -1,9 +1,10 @@
-# 05_expressjs_getting_started
+# 05 Expressjs getting started
 ## Getting started "Walk through" from teachings
 
-The different steps can be viewed using the git command "<strong>git checkout \<commit id\></strong>"
+## Installation
 
-1. Install: 
-  * git checkout ee3ab30
-2. Hello World
-  * git checkout cee65cc
+<pre> git clone https://github.com/keanodejs/05_expressjs_getting_started.git </pre>   
+
+Then run:    
+
+<pre> npm install </pre>
